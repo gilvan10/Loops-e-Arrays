@@ -39,7 +39,7 @@ public class Q8ArrayConsoantes {
             count++;*/
 
         }
-        System.out.println("Numero de consoantes " +quantidadeConsoantes);
+        System.out.println("Numero de consoantes inseridas " +quantidadeConsoantes);
         for(String consoanteAux: consoantes)
             System.out.print(consoanteAux + " ");
     }
